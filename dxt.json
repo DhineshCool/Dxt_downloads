@@ -1,12 +1,16 @@
 {
-  "kernel": {
+ "kernel": {
     "name": "Dxt",
     "version": "v1.4",
-    "link": "https://github.com/DhineshCool/Dxt_downloads/raw/master/Dxt%20v1.4.zip",
-    "changelog_url": "https://github.com/DhineshCool/Dxt_downloads/blob/master/changelogs",
+    "link":
+"https://github.com/DhineshCool/Dxt_downloads/raw/master/Dxt%20v1.4.zip", 
+    "changelog_url":
+"https://github.com/DhineshCool/Dxt_downloads/blob/master/changelogs", 
+    "date": "2020-05-13",
+    "sha1":
+"f87ec822a60bad6bda7822a04e80214cf665f2b9"
   },
   "support": {
-    "link": "support_link",
-    "donation": "donation_link"
+    "link": ""
   }
 }
