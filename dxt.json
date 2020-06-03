@@ -1,14 +1,14 @@
 {
  "kernel": {
     "name": "Dxt",
-    "version": "v1.5",
+    "version": "v1.6",
     "link":
-"https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/master/Dxt-v1.5.zip",
+"https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/master/Dxt-v1.6.zip",
     "changelog_url":
 "https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/master/changelogs",
-    "date": "2020-05-13",
+    "date": "2020-06-03",
     "sha1":
-"e52ba8d52fdfb605e567259f46b429e21b7183a9"
+"ae76935225e037d6668c3d3c92f364841c3d5893"
   },
   "support": {
     "link": "https://t.me/motox4official"
