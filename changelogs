@@ -1,6 +1,8 @@
 
 ## DxT Changelogs ##
 
-*kernel upstreamed to latest 4.4.224
-* Built with latest clang
-*update wireguard to v1.0.20200520
+*kernel upstreamed to latest 4.4.226
+* Built with latest proton clang
+* Built with LTO and POLLY
+* underhood changes
+* reverted dts drivers ( issue with latest proton)
