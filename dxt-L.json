@@ -1,0 +1,16 @@
+{
+ "kernel": {
+    "name": "Dxt",
+    "version": "v1.7L",
+    "link":
+"https://github.com/DhineshCool/Dxt_downloads/raw/master/Dxt-v1.7L.zip",
+    "changelog_url":
+"https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/master/changelogs",
+    "date": "2020-06-16",
+    "sha1":
+"790a204b2a89e64ce454a64f6fe557138cffb7f2"
+  },
+  "support": {
+    "link": "https://t.me/dxt_official"
+  }
+}
