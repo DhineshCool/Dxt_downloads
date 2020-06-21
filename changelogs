@@ -1,21 +1,8 @@
 
 ## DxT Changelogs ##
 
-* kernel upstreamed to latest 4.4.227
-• Work on wavelocks
-• Set gpu timeout to 64ms
-• Improve performance critical irq framework
-• Remove cpu latency to save power
-• Disable battery BCL 
-• Work kmemleak
-• Optimize camera 
-• Disable stack frame size warning
-• Imported binder from 4.19
-• Lot of fixes for gcc
-• Fix some clang warnings
-• Optimize framebuffers to increase performance
-• Cpuset fix hotplug
-• Ext4 optimization
-• Work on vmpressure 
-
- And more on GitHub
+* kernel upstreamed to latest 4.4.228
+* rewrite ion (fixed ram bug)
+* rewrite iommu
+* introduce simple LMK
+* mcache speedup cache creation
