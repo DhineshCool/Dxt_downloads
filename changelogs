@@ -4,5 +4,7 @@
 * kernel upstreamed to latest 4.4.228
 * rewrite ion (fixed ram bug)
 * rewrite iommu
-* introduce simple LMK
 * mcache speedup cache creation
+* work on bcq scheduler
+* bcq scheduler as default
+* update wireguard v1.0.20200611
