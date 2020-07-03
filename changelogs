@@ -1,10 +1,10 @@
 
 ## DxT Changelogs ##
 
-* kernel upstreamed to latest 4.4.228
-* rewrite ion (fixed ram bug)
-* rewrite iommu
-* mcache speedup cache creation
-* work on bcq scheduler
-* bcq scheduler as default
-* update wireguard v1.0.20200611
+* kernel upstreamed to latest 4.4.229
+* rework on thermals , Now it manage better thermals
+* added simple thermal
+* fix lags for 3gb users(still need proper testing)
+* added the latest exfat driver(5.8-1arter97) from arter97, and port to v4.4
+* improved app opening time
+
