@@ -1,10 +1,8 @@
 
 ## DxT Changelogs ##
 
-* kernel upstreamed to latest 4.4.229
-* rework on thermals , Now it manage better thermals
-* added simple thermal
-* fix lags for 3gb users(still need proper testing)
-* added the latest exfat driver(5.8-1arter97) from arter97, and port to v4.4
-* improved app opening time
-
+* kernel upstreamed to latest 4.4.230
+*Use O3 for lowering size of kernel
+*ram managment tweaks
+*update build tools
+*update wireguard 1.0.20200712
