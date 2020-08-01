@@ -1,8 +1,7 @@
 
 ## DxT Changelogs ##
 
-* kernel upstreamed to latest 4.4.230
-*Use O3 for lowering size of kernel
-*ram managment tweaks
-*update build tools
-*update wireguard 1.0.20200712
+* kernel upstreamed to latest 4.4.232
+* Use O3 for lowering size of kernel
+* build with latest clang-12
+* optimize for sdm630
