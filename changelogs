@@ -1,7 +1,14 @@
 
 ## DxT Changelogs ##
 
-* kernel upstreamed to latest 4.4.232
-* Use O3 for lowering size of kernel
-* build with latest clang-12
-* optimize for sdm630
+* upstreamed to v4.233
+* new undervolt for cpu
+    -for better optimisation and sustained performance
+* new undervolt for display 
+    -for better battery life
+* faster deepsleep
+* added new wakelock system
+* disable driver logging
+* safetynet patch on kernel
+* some battery tweaks
+* build latest proton 12
