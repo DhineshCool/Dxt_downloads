@@ -1,14 +1,10 @@
 
 ## DxT Changelogs ##
 
-* upstreamed to v4.233
-* new undervolt for cpu
-    -for better optimisation and sustained performance
-* new undervolt for display 
-    -for better battery life
-* faster deepsleep
-* added new wakelock system
-* disable driver logging
-* safetynet patch on kernel
-* some battery tweaks
+* upstreamed to v4.235
+* Add BBR TCP Congestion Control
+* Enable BLK_CGROUP & CFQ_GROUP_IOSCHED
+* optimizations to the cfq scheduler
+* add WireGuard version "1.0.20200729"
+* sched/fair: Tune the scheduler using Google's presets
 * build latest proton 12
