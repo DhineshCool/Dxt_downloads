@@ -1,10 +1,7 @@
 
 ## DxT Changelogs ##
 
-* upstreamed to v4.235
-* Add BBR TCP Congestion Control
-* Enable BLK_CGROUP & CFQ_GROUP_IOSCHED
-* optimizations to the cfq scheduler
-* add WireGuard version "1.0.20200729"
-* sched/fair: Tune the scheduler using Google's presets
-* build latest proton 12
+* upstreamed to v4.236
+* Sync BBR changes with Team StormBreaker
+* Latest WireGuard driver (v1.0.20200908)
+* used latest proton clang (20200913)
