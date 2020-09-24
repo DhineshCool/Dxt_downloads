@@ -1,7 +1,11 @@
 
 ## DxT Changelogs ##
 
-* upstreamed to v4.236
-* Sync BBR changes with Team StormBreaker
-* Latest WireGuard driver (v1.0.20200908)
-* used latest proton clang (20200913)
+*upstreamed to v4.237
+*New OC for payton (thnx to seba3567)
+*Remove some scheduler
+*ipc logging disabled
+*changes on debugfs
+*increase thermal trip points
+*optimize gpu
+*used latest proton clang (20200923)
