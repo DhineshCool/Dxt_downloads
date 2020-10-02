@@ -1,11 +1,7 @@
 
 ## DxT Changelogs ##
 
-*upstreamed to v4.237
-*New OC for payton (thnx to seba3567)
-*Remove some scheduler
-*ipc logging disabled
-*changes on debugfs
-*increase thermal trip points
-*optimize gpu
-*used latest proton clang (20200923)
+*upstreamed to v4.238
+*qcacld-3.0: Disable Wifi SAE by default
+*optimizations for block 
+*used latest proton clang (20200930)
