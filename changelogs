@@ -1,7 +1,6 @@
 
 ## DxT Changelogs ##
 
-*upstreamed to v4.238
-*qcacld-3.0: Disable Wifi SAE by default
-*optimizations for block 
-*used latest proton clang (20200930)
+*upstreamed to v4.239
+*power: bcl: Improve power efficiency of the workqueue
+*used latest proton clang (20201010)
