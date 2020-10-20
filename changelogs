@@ -1,6 +1,13 @@
 
 ## DxT Changelogs ##
 
-*upstreamed to v4.239
-*power: bcl: Improve power efficiency of the workqueue
-*used latest proton clang (20201010)
+*upstreamed to v4.240
+*clean up codes
+*fixed build warning
+*added additional safetynet patch
+*rework on thermals
+*work on cpu idle
+*work on ram managment
+*lot of work done see my git
+(https://github.com/DhineshCool/Dxt_payton)
+*latest proton clang
