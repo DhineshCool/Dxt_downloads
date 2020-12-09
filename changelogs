@@ -1,13 +1,18 @@
 
 ## DxT Changelogs ##
 
-*upstreamed to v4.240
-*clean up codes
-*fixed build warning
-*added additional safetynet patch
-*rework on thermals
+*upstreamed to v4.247
+*fix payload calculation
+*usb: Add Drivedroid Support 
+*power: msm-core: Fix mutex not getting unlocked in error path
+*cpufreq: stats: optimize proc files 
+*mm: speed up mremap by 20x on large regions
 *work on cpu idle
-*work on ram managment
 *lot of work done see my git
 (https://github.com/DhineshCool/Dxt_payton)
 *latest proton clang
+
+**** rework on uc version -it now fully stable no thermal throttling ****
+
+*for the people on xda i released v3.1 on my telegram group , i forget to update on xda
+that why directly releasing v3.2 
