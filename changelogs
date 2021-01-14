@@ -1,10 +1,12 @@
 
 ## DxT Changelogs ##
 
-***New Year Release***
-*upstreamed to v4.248
+
+*DxT rebased to caf base
+*upstreamed to v4.251
+*added persist bug fix
 *latest proton clang
-*Gpu oc to 800mhz
-*no thermal throttling on gpu
+*Gpu added 710 freq
 *more ion fixes from sultan
+*Enable CONFIG_HID_NINTENDO
 *Updated wireguard to "1.0.20201221"
