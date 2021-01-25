@@ -2,11 +2,13 @@
 ## DxT Changelogs ##
 
 
-*DxT rebased to caf base
-*upstreamed to v4.251
-*added persist bug fix
+*upstreamed to v4.253
+*Merged tag LA.UM.9.2.r1-02000-SDMxx0.0
 *latest proton clang
-*Gpu added 710 freq
-*more ion fixes from sultan
-*Enable CONFIG_HID_NINTENDO
-*Updated wireguard to "1.0.20201221"
+*Backport new vmalloc for "large performance benefits"
+*selinux: Allow audit to be disabled
+* page_alloc: double zone's batchsize
+*nuke more debloat
+*more optimation for better smoothness
+now ui will be more smooth 
+*Updated wireguard to "1.0.20210124"
