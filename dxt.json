@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "DxT",
-    "version": "V3.6",
-    "link": "https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/master/DxT/v3.6/DxT-v3.6.zip",
+    "version": "V3.7",
+    "link": "https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/master/DxT/v3.7/DxT-v3.7.zip",
     "changelog_url": "https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/master/changelogs",
-    "date": "2021-03-01",
-    "sha1": "07394d1b439c1edda2083751e2e3fb7df76a0cf3"
+    "date": "2021-04-12",
+    "sha1": "f6aac73753ef2b80e1042c05d67b926bebbe4215"
   },
   "support": {
     "link": "https://t.me/dxt_official"

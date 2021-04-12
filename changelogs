@@ -2,11 +2,8 @@
 ## DxT Changelogs ##
 
 
-*upstreamed to v4.258
+*upstreamed to v4.266
 *latest proton clang
-*added anxiety io for faster app opening
-*added z3fold from sony
-*improved zram performance
-*updated ashmem 
-*fixed some thermal sensor spamming on logcat
+*cleanup codes
+*updated wireguard
 *more fixes see my git
