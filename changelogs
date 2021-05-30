@@ -2,8 +2,9 @@
 ## DxT Changelogs ##
 
 
-*upstreamed to v4.266
+*upstreamed to v4.270
 *latest proton clang
-*cleanup codes
-*updated wireguard
-*more fixes see my git
+*fully rebase
+*rework thermal engine
+*rework ram-managment
+*lot see my git
