@@ -2,9 +2,6 @@
 ## DxT Changelogs ##
 
 
-*upstreamed to v4.270
+*upstreamed to v4.273
 *latest proton clang
-*fully rebase
-*rework thermal engine
-*rework ram-managment
-*lot see my git
+*improved stability
