@@ -2,6 +2,12 @@
 ## DxT Changelogs ##
 
 
-*upstreamed to v4.273
+*upstreamed to v4.276
+*merged latest caf tags
 *latest proton clang
-*improved stability
+*improved cpu frequency
+*clean up rarely working freq
+*improved cpu idle
+*fixed battery drain on idle
+*removed prlmk to prevent twrp crash
+*more code cleanup fro stability
