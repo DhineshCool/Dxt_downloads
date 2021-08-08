@@ -2,12 +2,12 @@
 ## DxT Changelogs ##
 
 
-*upstreamed to v4.276
+*upstreamed to v4.278
 *merged latest caf tags
 *latest proton clang
-*improved cpu frequency
-*clean up rarely working freq
-*improved cpu idle
-*fixed battery drain on idle
-*removed prlmk to prevent twrp crash
-*more code cleanup fro stability
+*fixed more bugs
+*fixed some spamming logs
+*cleanup more commits
+*added powersuspend
+*improved battery life
+*dxt-non-oc version will be bi-monthly

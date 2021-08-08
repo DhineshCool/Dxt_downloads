@@ -1,14 +1,14 @@
 {
  "kernel": {
     "name": "DxT",
-    "version": "v4.2L",
+    "version": "v4.3L",
     "link":
-"https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/new/DxT/v4.2/DxT-v4.2L.zip",
+"https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/new/DxT/v4.3/DxT-v4.3L.zip",
     "changelog_url":
 "https://raw.githubusercontent.com/DhineshCool/Dxt_downloads/new/changelogs",
-    "date": "2021-07-25",
+    "date": "2021-08-08",
     "sha1":
-"da67b99400f90b297b52ddbd6e04f3893a369e75"
+"61d4c2cac03b685e9bf6ec536c9421861852eb39"
   },
   "support": {
     "link": "https://t.me/dxt_official"
